@@ -1,0 +1,33 @@
+/* your styling code here */
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url("https://img.freepik.com/free-vector/space-with-stars-universe-space-infinity-background_78474-99.jpg?size=626&ext=jpg");
+}
+
+h1 {
+    color: #f57218;
+}
+
+h2,
+h4 {
+    color: #faf91e;
+}
+
+p {
+    color: #8e098e;
+}
+
+li {
+    color: #0f8d20;
+}
+
+.center {
+    text-align: center;
+}
+
+.border {
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(60, 200, 224)
+}
